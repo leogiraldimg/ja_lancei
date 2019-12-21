@@ -6,10 +6,10 @@
 
 ## Plataformas
 
-* [CodeClimate - Spottapp]()
-* [Travis CI - Spottapp]()
-* [Heroku - spottapp]()
-* [Pivotal Tracker - Spottapp]()
+* [CodeClimate - Já Lancei]()
+* [Travis CI - Já Lancei]()
+* [Heroku - Já Lancei]()
+* [Pivotal Tracker - Já Lancei]()
 
 ## Autor do projeto
 
