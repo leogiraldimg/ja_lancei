@@ -32,3 +32,4 @@ src/ja_lancei/config/master.key
 
 # Ignore gmail credentials
 src/ja_lancei/.env
+coverage

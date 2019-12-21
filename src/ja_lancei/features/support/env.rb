@@ -5,6 +5,12 @@
 # files.
 
 require 'cucumber/rails'
+require 'capybara'
+if ENV['RAILS_ENV'] == 'test'
+  require 'simplecov'
+  SimpleCov.start 'rails'
+  puts "required simplecov"
+end
 
 # frozen_string_literal: true
 
