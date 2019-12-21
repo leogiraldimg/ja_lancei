@@ -6,10 +6,9 @@
 
 ## Plataformas
 
-* [CodeClimate - Já Lancei]()
-* [Travis CI - Já Lancei]()
+* [CodeClimate - Já Lancei](https://codeclimate.com/github/leogiraldimg/ja_lancei)
+* [Travis CI - Já Lancei](https://travis-ci.com/leogiraldimg/ja_lancei)
 * [Heroku - Já Lancei]()
-* [Pivotal Tracker - Já Lancei]()
 
 ## Autor do projeto
 
