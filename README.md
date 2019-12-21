@@ -1,6 +1,6 @@
 # Já Lancei
 
-[![Build Status]()]()
+[![Build Status](https://travis-ci.com/leogiraldimg/ja_lancei.svg?branch=master)](https://travis-ci.com/leogiraldimg/ja_lancei)
 [![Maintainability]()]()
 [![Test Coverage]()]()
 
