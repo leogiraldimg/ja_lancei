@@ -1,0 +1,2 @@
+class WelcomePoController < ApplicationController
+end

@@ -1,0 +1,33 @@
+@import "bootstrap";
+@import "welcome";
+@import "welcome_po";
+@import "managers";
+
+$cornflower-blue: #5795E4;
+$royal-blue: #2373d9;
+
+body {
+    background-color: $cornflower-blue;
+}
+
+#header-navbar {
+    background-color: $royal-blue;
+    
+    a {
+        color: white;
+        font-family: Raleway;
+    }
+}
+
+.titulo-pagina {
+    color: white;
+}
+
+.padding-elemento-topo-pagina {
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+.no-margin-bottom {
+    margin-bottom: 0;
+}
