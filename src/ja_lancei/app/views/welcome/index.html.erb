@@ -1,0 +1,13 @@
+<div class="row">
+    <div class="col-md-12 col-xs-12 div-titulo-pagina padding-elemento-topo-pagina">
+        <p><%= t('text_welcome') %></p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-6 col-xs-12 div-button-po-collaborator">
+        <%= button_to t('button_po'), welcome_po_path, method: "get", class: 'btn btn-success button-po-collaborator' %>
+    </div>
+    <div class="col-md-6 col-xs-12 div-button-po-collaborator">
+        <%= button_to t('button_collaborator'), welcome_collaborator_path, method: "get", class: 'btn btn-success button-po-collaborator button-collaborator' %>            
+    </div>
+</div>
