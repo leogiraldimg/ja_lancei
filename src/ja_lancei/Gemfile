@@ -78,3 +78,6 @@ gem 'net-http-pipeline', '~> 1.0', '>= 1.0.1'
 
 gem 'bootstrap', '~> 4.4.1'
 gem 'jquery-rails'
+
+gem "factory_bot_rails"
+gem 'rails-controller-testing'
